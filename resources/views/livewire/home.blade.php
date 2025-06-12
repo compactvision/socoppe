@@ -61,9 +61,9 @@
         </div>
     </div>
 
-    <section class="benefits section">
+    <!-- <section class="benefits section">
         <div class=container>
-            <!-- <div class="benefits_header d-flex flex-column">
+            <div class="benefits_header d-flex flex-column">
                         <h2 class=benefits_header-title>
                             Confiance de plus 
                             <span class=linebreak>
@@ -72,7 +72,7 @@
                             </span>
                         </h2>
                         <p class=benefits_header-text>Sed tempor nec est finibus molestie. Sed molestie orci eleifend, sodales est ut, aliquam quam. Mauris fringilla consectetur purus eget egestas. Proin varius interdum blandit.</p>
-                    </div> -->
+                    </div> 
             <ul class="benefits_list d-grid">
                 <li class=benefits_list-item data-aos=fade-up>
                     <div class=media>
@@ -122,8 +122,8 @@
                 </li>
             </ul>
         </div>
-    </section>
-
+    </section> -->
+<br><br>
     <section class="about section" id="about">
         <div class=container>
             <div class=about_main>

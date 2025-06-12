@@ -3,3 +3,8 @@
 @import url('./libs.min.css');
 @import url('./index.min.css');
 @import url('./floatbutton.min.css');
+
+
+:root {
+    --primary-color: #2a6ebb;
+}

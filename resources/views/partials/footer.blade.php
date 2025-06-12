@@ -14,17 +14,17 @@
                 <ul class="socials d-flex align-items-center">
                     <li class=socials-item>
                         <a class=link href=https://twitter.com target=_blank rel="noopener noreferrer">
-                            <i class="icon-twitter icon"></i>
+                            <i class="fa-brands fa-x-twitter icon"></i>
                         </a>
                     </li>
                     <li class=socials-item>
                         <a class=link href=https://linkedin.com target=_blank rel="noopener noreferrer">
-                            <i class="icon-linkedin2 icon"></i>
+                            <i class="fa-brands fa-linkedin-in icon"></i>
                         </a>
                     </li>
                     <li class=socials-item>
                         <a class=link href=https://youtube.com target=_blank rel="noopener noreferrer">
-                            <i class="icon-youtube-play icon"></i>
+                            <i class="fa-brands fa-youtube icon"></i>
                         </a>
                     </li>
                 </ul>

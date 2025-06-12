@@ -36,7 +36,7 @@
                     <span class=logo_media>
                         <img src="/assets/img/logo/logo.png" alt="" width="100" height="100">
                     </span>
-                    <span class=logo_text>Socoppe</span>
+                    <span class=logo_text>SOCOPPE</span>
                 </a>
             </span>
             <a class=header_nav-trigger href=# id=headerTrigger data-bs-toggle=collapse data-bs-target=#headerMenu aria-controls=headerMenu>
