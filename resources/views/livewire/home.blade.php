@@ -6,35 +6,35 @@
                 <div class="slider_media-slide swiper-slide">
                     <picture>
                         <source data-srcset=assets/img/index3/slide04.webp srcset=assets/img/index3/slide04.webp>
-                        <img class=lazy data-src=assets/img/index3/slide04.jpg src=assets/img/index3/slide04.jpg alt=media data-transform-origin="center center">
+                        <img class=lazy data-src=assets/img/index3/slide04.jpg src=assets/img/index3/slide04.jpg alt="Transport de marchandises">
                     </picture>
                 </div>
                 <div class="slider_media-slide swiper-slide">
                     <picture>
                         <source data-srcset=assets/img/index/slide01.webp srcset=assets/img/index/slide01.webp>
-                        <img class=lazy data-src=assets/img/index/slide01.jpg src=assets/img/index/slide01.jpg alt=media data-transform-origin="center center">
+                        <img class=lazy data-src=assets/img/index/slide01.jpg src=assets/img/index/slide01.jpg alt="Logistique internationale">
                     </picture>
                 </div>
                 <div class="slider_media-slide swiper-slide">
                     <picture>
                         <source data-srcset=assets/img/index/slide02.webp srcset=assets/img/index/slide02.webp>
-                        <img class=lazy data-src=assets/img/index/slide02.jpg src=assets/img/index/slide02.jpg alt=media data-transform-origin="center center">
+                        <img class=lazy data-src=assets/img/index/slide02.jpg src=assets/img/index/slide02.jpg alt="Camions de transport">
                     </picture>
                 </div>
                 <div class="slider_media-slide swiper-slide">
                     <picture>
                         <source data-srcset=assets/img/index/slide03.webp srcset=assets/img/index/slide03.webp>
-                        <img class=lazy data-src=assets/img/index/slide03.jpg src=assets/img/index/slide03.jpg alt=media data-transform-origin="center center">
+                        <img class=lazy data-src=assets/img/index/slide03.jpg src=assets/img/index/slide03.jpg alt="Entrepôt logistique">
                     </picture>
                 </div>
             </div>
         </div>
         <div class=container>
             <div class=slider_content>
-                <h1 class=slider_content-title data-aos=fade-up>Livrer des colis de toutes les manières</h1>
-                <p class=slider_content-text data-aos=fade-up data-aos-delay=50>Curabitur congue finibus lorem, at dignissim metus elementum sit amet. Mauris eget dapibus quam. Integer a ante rutrum, semper risus a, blandit elit. Nunc dolor purus, condimentum ut lorem in, tincidunt consequat erat.</p>
+                <h1 class=slider_content-title data-aos=fade-up>Solutions logistiques sur mesure pour votre entreprise</h1>
+                <p class=slider_content-text data-aos=fade-up data-aos-delay=50>Notre expertise en transport et logistique vous garantit des solutions adaptées à vos besoins, avec un suivi rigoureux et des délais optimisés.</p>
                 <a class="slider_content-btn btn btn--split" href=# data-aos=fade-up data-aos-delay=100>
-                    <span class=main>Consultation</span>
+                    <span class=main>Demander un devis</span>
                     <span class="fa-solid fa-arrow-right icon"></span>
                 </a>
             </div>
@@ -42,113 +42,50 @@
                 <div class=slider_service-card>
                     <picture>
                         <source data-srcset=assets/img/index/servicecard01.webp srcset=assets/img/index/servicecard01.webp>
-                        <img class=lazy data-src=assets/img/index/servicecard01.jpg src=assets/img/index/servicecard01.jpg alt=media>
+                        <img class=lazy data-src=assets/img/index/servicecard01.jpg src=assets/img/index/servicecard01.jpg alt="Transport maritime">
                     </picture>
                 </div>
                 <div class=slider_service-card>
                     <picture>
                         <source data-srcset=assets/img/index/servicecard02.webp srcset=assets/img/index/servicecard02.webp>
-                        <img class=lazy data-src=assets/img/index/servicecard02.jpg src=assets/img/index/servicecard02.jpg alt=media>
+                        <img class=lazy data-src=assets/img/index/servicecard02.jpg src=assets/img/index/servicecard02.jpg alt="Transport aérien">
                     </picture>
                 </div>
                 <div class="slider_service-label d-flex flex-column">
-                    <h6 class=title>Expédition Fret</h6>
+                    <h6 class=title>Transport Multimodal</h6>
                     <a class="link link--arrow" href=#>
-                        Details <i class="icon-arrow-right-solid icon"></i><span class="fa-solid fa-arrow-right icon"></span>
+                        En savoir plus <i class="icon-arrow-right-solid icon"></i><span class="fa-solid fa-arrow-right icon"></span>
                     </a>
                 </div>
             </div>
         </div>
     </div>
-
-    <!-- <section class="benefits section">
-        <div class=container>
-            <div class="benefits_header d-flex flex-column">
-                        <h2 class=benefits_header-title>
-                            Confiance de plus 
-                            <span class=linebreak>
-                                de <span class="countNum highlight" data-value=365000 data-separator=,></span>
-                                clients satisfaits
-                            </span>
-                        </h2>
-                        <p class=benefits_header-text>Sed tempor nec est finibus molestie. Sed molestie orci eleifend, sodales est ut, aliquam quam. Mauris fringilla consectetur purus eget egestas. Proin varius interdum blandit.</p>
-                    </div> 
-            <ul class="benefits_list d-grid">
-                <li class=benefits_list-item data-aos=fade-up>
-                    <div class=media>
-                        <span class=media_icon>
-                            <svg width=48 height=64 viewBox="0 0 48 64" fill=none xmlns=http://www.w3.org/2000/svg>
-                                <path d="M24.0452 43.2H23.9554C21.7582 43.1714 19.9918 41.5186 19.986 39.4855C19.986 38.7227 19.3173 38.1045 18.4936 38.1045C17.6693 38.1045 17.0012 38.7227 17.0012 39.4855C17.0006 42.5295 19.2934 45.1625 22.5079 45.8098V47.619C22.5079 48.3818 23.176 49 24.0003 49C24.8246 49 25.4927 48.3818 25.4927 47.619V45.8098C28.9852 45.1053 31.3428 42.078 30.9592 38.789C30.5762 35.5001 27.575 33.0079 24.0003 33.0085C21.7833 33.0085 19.986 31.3454 19.986 29.2939C19.986 27.2424 21.7833 25.5788 24.0003 25.5788C26.2173 25.5788 28.0146 27.2424 28.0146 29.2939C28.0146 30.0567 28.6833 30.6749 29.507 30.6749C30.3313 30.6749 30.9994 30.0567 30.9994 29.2939C30.9959 26.2477 28.7066 23.6131 25.4927 22.955V21.381C25.4927 20.6182 24.8246 20 24.0003 20C23.176 20 22.5079 20.6182 22.5079 21.381V22.955C19.0142 23.6628 16.6572 26.6922 17.0408 29.9822C17.4238 33.2728 20.4238 35.7677 24.0003 35.7704C26.2173 35.759 28.0251 37.4129 28.0373 39.4644C28.0496 41.5159 26.2622 43.1887 24.0452 43.2Z" fill=currentColor />
-                                <path fill-rule=evenodd clip-rule=evenodd d="M43.8718 9.73913H37.1518C36.5379 7.13098 34.2412 5.29022 31.5975 5.28696H30.3498C30.0889 2.36522 27.6482 0 24.6857 0H23.3689C20.407 0 17.9657 2.36522 17.7054 5.28696H16.4571C13.8139 5.29022 11.5173 7.13098 10.9029 9.73913H4.11429C1.86536 9.73913 0 11.6728 0 13.9685V59.812C0.0117857 62.1201 1.85304 63.988 4.12821 64H43.8718C46.147 63.988 47.9882 62.1201 48 59.812V13.9685C48 11.6728 46.1346 9.73913 43.8718 9.73913ZM23.3829 2.78261H24.6996C26.1332 2.79946 27.3504 3.85326 27.593 5.28696H20.4889C20.7316 3.85326 21.9487 2.79946 23.3829 2.78261ZM14.4129 8.94674C13.8696 9.50598 13.5686 10.262 13.5771 11.0467V15.5826H34.56V11.0467C34.5504 9.39565 33.225 8.06413 31.5975 8.06956H16.4711C15.697 8.07228 14.9561 8.38804 14.4129 8.94674ZM35.9175 18.3652C36.6718 18.3652 37.3029 17.7946 37.3029 17.0293V16.6957H38.9486V54.8174H9.05143V16.6957H10.8343V17.0293C10.8252 17.3864 10.9607 17.7321 11.2098 17.9842C11.4584 18.237 11.7991 18.3745 12.1511 18.3652H35.9175ZM43.8718 61.2174C44.6341 61.2098 45.2496 60.5853 45.2571 59.812V13.9685C45.2529 13.1875 44.6416 12.5489 43.8718 12.5217H37.3029V13.913H40.3473C40.7079 13.919 41.0513 14.0707 41.3009 14.3348C41.5511 14.5984 41.6866 14.9527 41.6775 15.3185V56.2364C41.685 56.5978 41.5473 56.9467 41.2971 57.2038C41.0464 57.4609 40.7036 57.6038 40.3473 57.6H7.63875C7.2825 57.6038 6.94018 57.4609 6.68946 57.2038C6.43875 56.9467 6.30161 56.5978 6.30857 56.2364V15.3185C6.3 14.9527 6.43554 14.5984 6.68518 14.3348C6.93482 14.0707 7.27821 13.919 7.63875 13.913H10.8343V12.5217H4.12821C3.35839 12.5489 2.74714 13.1875 2.74286 13.9685V59.812C2.75036 60.5853 3.36589 61.2098 4.12821 61.2174H43.8718Z" fill=currentColor />
-                                <path d="M15.3249 53H33.6751C34.4069 53 35 52.3285 35 51.5C35 50.6715 34.4069 50 33.6751 50H15.3249C14.5931 50 14 50.6715 14 51.5C14 52.3285 14.5931 53 15.3249 53Z" fill=currentColor />
-                            </svg>
-                        </span>
-                    </div>
-                    <div class=main>
-                        <h5 class=main_title>Cargo Assurance</h5>
-                        <p class=main_text>Mauris eu velit ac mauris tincidunt mattis. Etiam cursus vel</p>
-                    </div>
-                </li>
-                <li class=benefits_list-item data-aos=fade-up data-aos-delay=50>
-                    <div class=media>
-                        <span class=media_icon>
-                            <svg width=56 height=55 viewBox="0 0 56 55" fill=none xmlns=http://www.w3.org/2000/svg>
-                                <path fill-rule=evenodd clip-rule=evenodd d="M27.5123 38C27.1682 38 26.8389 37.8599 26.6024 37.6124L16.5031 27.1911C10.499 20.9559 10.499 10.8714 16.5031 4.69863C19.4226 1.67473 23.3287 0 27.5 0C31.6713 0 35.5769 1.67473 38.4969 4.71132C44.501 10.9465 44.501 21.0306 38.4969 27.2038L28.4228 37.6124C28.1858 37.8599 27.857 38 27.5123 38ZM27.5123 2.49917C24.0491 2.49917 20.7879 3.89909 18.3482 6.43535C13.267 11.6587 13.267 20.2061 18.3482 25.4793L27.5123 34.9385L36.6765 25.4793C41.7582 20.2559 41.7582 11.709 36.6765 6.43535C34.2373 3.89909 30.976 2.49917 27.5123 2.49917Z" fill=currentColor />
-                                <path fill-rule=evenodd clip-rule=evenodd d="M35 14.0002C35 17.866 31.6421 21 27.4997 21C23.3599 20.9957 20.0046 17.8641 20 14.0002C20 10.134 23.3579 7 27.4997 7C31.6421 7 35 10.134 35 14.0002ZM32.3868 14.0121C32.3868 11.4936 30.1987 9.45139 27.4997 9.45139C24.8033 9.45616 22.6183 11.4955 22.6132 14.0121C22.6132 16.5312 24.8013 18.5734 27.4997 18.5734C30.1987 18.5734 32.3868 16.5312 32.3868 14.0121Z" fill=currentColor />
-                                <path fill-rule=evenodd clip-rule=evenodd d="M27.9997 44C30.698 44 33.2407 44.2416 35.1606 44.6871C36.1072 44.9033 39 45.5651 39 47.5C39 49.4344 36.1072 50.0962 35.1606 50.3124C33.2275 50.7579 30.698 51 27.9997 51C25.302 51 22.7593 50.7579 20.8394 50.3124C19.8923 50.0962 17 49.4344 17 47.5C17 45.5651 19.8923 44.9033 20.8394 44.6871C22.7725 44.2416 25.302 44 27.9997 44ZM20.2298 47.5C21.488 47.9455 24.1345 48.4545 27.9997 48.4545C31.8655 48.4545 34.512 47.9455 35.7702 47.5C34.512 47.0545 31.8786 46.5455 27.9997 46.5455C24.1214 46.5455 21.4753 47.0545 20.2298 47.5Z" fill=currentColor />
-                                <path fill-rule=evenodd clip-rule=evenodd d="M27.9998 40C35.2322 40 42.0444 40.6609 47.1888 41.8556C53.0331 43.2157 55.9871 45.1225 56 47.5C56 49.877 53.0331 51.7838 47.1888 53.1439C42.0444 54.3386 35.2322 55 27.9998 55C20.7678 55 13.9556 54.3386 8.81116 53.1439C2.9669 51.7838 0 49.877 0 47.5C0 45.1225 2.9669 43.2157 8.81116 41.8556C13.9556 40.6609 20.7678 40 27.9998 40ZM27.9998 52.47C35.0412 52.47 41.65 51.8344 46.6029 50.678C52.1925 49.3685 53.4405 47.9067 53.4405 47.5C53.4405 47.0928 52.1925 45.6439 46.6029 44.3344C41.65 43.178 35.0412 42.5424 27.9998 42.5424C20.9588 42.5424 14.35 43.178 9.39708 44.3344C3.81991 45.631 2.55954 47.0928 2.55954 47.5C2.55954 47.9067 3.80698 49.3685 9.39708 50.678C14.35 51.8344 20.9588 52.47 27.9998 52.47Z" fill=currentColor />
-                            </svg>
-                        </span>
-                    </div>
-                    <div class=main>
-                        <h5 class=main_title>Suivi en Ligne</h5>
-                        <p class=main_text>Ut viverra, ante ut mattis mollis, felis felis eleifend dolor, non suscipit</p>
-                    </div>
-                </li>
-                <li class=benefits_list-item data-aos=fade-up data-aos-delay=100>
-                    <div class=media>
-                        <span class=media_icon>
-                            <svg width=54 height=51 viewBox="0 0 54 51" fill=none xmlns=http://www.w3.org/2000/svg>
-                                <path fill-rule=evenodd clip-rule=evenodd d="M17.9313 31C18.5208 31.0017 18.9983 31.4922 19 32.0976V38.9024C18.9983 39.5078 18.5208 39.9983 17.9313 40H6.0687C5.47925 39.9983 5.00167 39.5078 5 38.9024V32.0976C5.00167 31.4922 5.47925 31.0017 6.0687 31H17.9313ZM7.1374 37.9146H16.8626V33.1951H7.1374V37.9146Z" fill=currentColor />
-                                <path fill-rule=evenodd clip-rule=evenodd d="M44.4505 22.46V14.1634C44.4488 14.0233 44.4202 13.8849 44.3653 13.7565L39.8355 2.5482C39.2149 0.999697 37.7186 -0.0101943 36.0604 0.00026H8.42212C6.76303 -0.0131216 5.26512 0.997607 4.64702 2.5482L0.0955407 13.767C0.0378009 13.8912 0.00540012 14.0263 0 14.1634V40.4127C0.0186927 42.6892 1.85349 44.5271 4.11531 44.5342H27.2553C29.8926 48.3881 34.3373 51 39.3673 51C47.428 51 54 44.3949 54 36.2698C53.9892 29.9537 49.9802 24.5475 44.4505 22.46ZM37.8574 3.32935L41.8028 13.0607H28.6697L26.9894 2.14131H36.0496C36.8376 2.12542 37.5545 2.59712 37.8574 3.32935ZM26.6916 15.2017H17.4399V23.7016L26.6916 20.0404V15.2017ZM17.6206 13.0607L19.386 2.14131H24.8306L26.5109 13.0607H17.6206ZM8.42212 2.14131C7.63411 2.12542 6.91714 2.59712 6.61432 3.32935L2.67971 13.0607H15.4726L17.238 2.14131H8.42212ZM4.11531 42.3931C3.02822 42.386 2.14551 41.5066 2.12682 40.4127V15.2017H15.3131V25.2752C15.3123 25.6314 15.4876 25.9647 15.7808 26.1638C15.9582 26.28 16.1651 26.3432 16.3765 26.3457C16.5111 26.3469 16.6448 26.3214 16.7699 26.2708L28.1484 21.7746C28.5534 21.6124 28.8188 21.2176 28.8184 20.7789V15.2017H42.3237V21.839C41.3512 21.6358 40.3605 21.5354 39.3673 21.5392C31.3066 21.5392 24.7351 28.1551 24.7351 36.2698C24.738 38.3782 25.1874 40.4624 26.0535 42.3823H4.11531V42.3931ZM26.8619 36.2698C26.8619 43.2165 32.456 48.8485 39.3569 48.8485C46.2475 48.8485 51.8624 43.2065 51.852 36.2698C51.852 29.3227 46.2575 23.6911 39.3569 23.6911C32.456 23.6911 26.8619 29.3227 26.8619 36.2698Z" fill=currentColor />
-                                <path fill-rule=evenodd clip-rule=evenodd d="M45.8171 35.4093C45.8204 37.001 45.3065 38.5508 44.3527 39.8251L47.6826 43.1555C47.8856 43.3581 48 43.6331 48 43.9205C48 44.2074 47.8856 44.4824 47.6826 44.685C47.4763 44.8858 47.2005 44.9985 46.9123 44.9998C46.6238 45.0036 46.3458 44.8901 46.1425 44.685L42.8125 41.3545C41.5427 42.3084 39.9966 42.8225 38.4085 42.8191C34.3168 42.8191 31 39.5017 31 35.4093C31 31.3173 34.3168 28 38.4085 28C42.5003 28 45.8171 31.3173 45.8171 35.4093ZM37.0247 30.3592C34.7498 30.9876 33.1757 33.0599 33.1804 35.4203C33.1698 37.521 34.4185 39.4242 36.3502 40.2501C38.2814 41.0765 40.5194 40.665 42.0312 39.2064C42.0541 39.1754 42.0795 39.1462 42.1075 39.1199C42.1333 39.0915 42.1626 39.0661 42.1939 39.0436C43.8307 37.343 44.1282 34.758 42.921 32.7298C41.7139 30.7012 39.2996 29.7307 37.0247 30.3592Z" fill=currentColor />
-                            </svg>
-                        </span>
-                    </div>
-                    <div class=main>
-                        <h5 class=main_title>Vérification des boîtes</h5>
-                        <p class=main_text>Maecenas pharetra accumsan venenatis. Nam ut aliquam erat</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    </section> -->
 <br><br>
     <section class="about section" id="about">
         <div class=container>
             <div class=about_main>
                 <div class=block>
-                    <h3 class=about_main-title data-aos=fade-up>Excellents services de qualité d'entreprise</h3>
-                    <p class=about_main-text data-aos=fade-up data-aos-delay=50>Donec lacinia purus et nisl dignissim, vel egestas nunc iaculis. Maecenas elementum elementum ipsum, sit amet lacinia lectus vulputate nec.</p>
+                    <h3 class=about_main-title data-aos=fade-up>Expertise logistique à votre service</h3>
+                    <p class=about_main-text data-aos=fade-up data-aos-delay=50>Fort de 20 ans d'expérience, notre groupe logistique vous accompagne dans toutes les étapes de votre supply chain, avec des solutions innovantes et fiables.</p>
                     <ul class=about_main-list>
                         <li class=about_main-list_item data-aos=fade-up data-aos-delay=50>
                             <i class="icon-check icon"></i>
                             <i class="fa-solid fa-check icon"></i>
-                            Vestibulum eu porta mauris. Sed imper
+                            Transport international multimodal
                         </li>
                         <li class="about_main-list_item about_main-list_item--highlight" data-aos=fade-up data-aos-delay=100>
                             <i class="icon-check icon"></i>
                             <i class="fa-solid fa-check icon"></i>
-                            Maecenas purus ante, condime
+                            Stockage et gestion d'entrepôts
                         </li>
                         <li class=about_main-list_item data-aos=fade-up data-aos-delay=150>
                             <i class="icon-check icon"></i>
                             <i class="fa-solid fa-check icon"></i>
-                            Maecenas sodales
+                            Douane et formalités réglementaires
                         </li>
                     </ul>
                     <a class="about_main-btn btn btn--split" href=# data-aos=fade-up data-aos-delay=200>
-                        <span class=main>Rendez-vous</span>
+                        <span class=main>Contactez-nous</span>
                         <span class="fa-solid fa-arrow-right icon"></span>
                     </a>
                 </div>
@@ -159,50 +96,25 @@
                                 <span class="countNum h3" data-value=1255></span>
                                 <span class="suffix suffix--plus h3">+</span>
                             </div>
-                            <span class=label>Livré colis</span>
+                            <span class=label>Colis livrés mensuellement</span>
                         </li>
                         <li class=about_main-numbers_item>
                             <div class=wrapper>
                                 <span class="countNum h3" data-value=50></span>
-                                <span class="suffix suffix--word">année</span>
+                                <span class="suffix suffix--word">pays</span>
                             </div>
-                            <span class=label>Zones d'entreposage</span>
+                            <span class=label>Réseau international</span>
                         </li>
                         <li class=about_main-numbers_item>
                             <div class=wrapper>
                                 <span class="countNum h3" data-value=4567></span>
+                                <span class="suffix suffix--plus h3">+</span>
                             </div>
-                            <span class=label>Clients Heureux</span>
+                            <span class=label>Clients satisfaits</span>
                         </li>
                     </ul>
                 </div>
             </div>
-            <!-- <ul class=about_gallery>
-                        <li class=about_gallery-item>
-                            <a class=link href=img/index3/gallery01full.jpg>
-                                <picture>
-                                    <source data-srcset=img/index3/gallery01.webp srcset=img/index3/gallery01.webp>
-                                    <img class=lazy data-src=img/index3/gallery01.jpg src=img/index3/gallery01.jpg alt=media>
-                                </picture>
-                            </a>
-                        </li>
-                        <li class=about_gallery-item>
-                            <a class=link href=img/index3/gallery02full.jpg>
-                                <picture>
-                                    <source data-srcset=img/index3/gallery02.webp srcset=img/index3/gallery02.webp>
-                                    <img class=lazy data-src=img/index3/gallery02.jpg src=img/index3/gallery02.jpg alt=media>
-                                </picture>
-                            </a>
-                        </li>
-                        <li class=about_gallery-item>
-                            <a class=link href=img/index3/gallery03full.jpg>
-                                <picture>
-                                    <source data-srcset=img/index3/gallery03.webp srcset=img/index3/gallery03.webp>
-                                    <img class=lazy data-src=img/index3/gallery03.jpg src=img/index3/gallery03.jpg alt=media>
-                                </picture>
-                            </a>
-                        </li>
-                    </ul> -->
         </div>
     </section>
 
@@ -213,7 +125,7 @@
                     <div class=media>
                         <picture>
                             <source data-srcset=assets/img/index3/service01.webp srcset=assets/img/index3/service01.webp>
-                            <img class=lazy data-src=assets/img/index3/service01.jpg src=assets/img/index3/service01.jpg alt=media>
+                            <img class=lazy data-src=assets/img/index3/service01.jpg src=assets/img/index3/service01.jpg alt="Transport maritime">
                         </picture>
                     </div>
                     <div class=main>
@@ -222,8 +134,8 @@
                                 <path fill-rule=evenodd clip-rule=evenodd d="M35.2264 39.9905H39.9867C40.2558 39.9893 40.5141 40.0943 40.7045 40.2821C40.8948 40.4698 41.0012 40.7247 41 40.9901C40.9984 41.5475 40.5409 41.9984 39.9763 42H1.02372C0.458275 42 0 41.5479 0 40.9901C0 40.4327 0.458275 39.9803 1.02372 39.9803H5.79441L2.82563 30.2252C2.44893 28.9763 2.918 27.6296 3.99251 26.8726L7.50395 24.4185V13.411C7.51394 12.299 8.43409 11.4043 9.56178 11.4114H9.8585V8.19014C9.8585 7.06903 10.8206 6.16016 11.9467 6.16016H16.1032V2.0501C16.1136 0.926233 17.0317 0.0157791 18.171 0H29.0636C30.2069 0.0142012 31.1319 0.922288 31.1519 2.0501V11.4114H31.4486C31.9908 11.4063 32.5123 11.6146 32.8986 11.9897C33.2849 12.3649 33.5036 12.8761 33.5064 13.411V24.4185L37.0179 26.8824C38.0968 27.6367 38.5666 28.9866 38.1847 30.2351L35.2264 39.9905ZM33.0765 39.9905L36.2193 29.6497C36.3433 29.2323 36.1873 28.7834 35.8302 28.5286L21.5289 18.5207V39.9905H33.0765ZM18.1506 2.01972H29.1044V11.4114H21.1194V8.19014C21.1274 7.65799 20.9203 7.14477 20.5436 6.76371C20.1673 6.38304 19.6522 6.16568 19.1128 6.16016H18.1506V2.01972ZM19.072 8.17988H11.9059V11.4114H19.072V8.17988ZM9.55139 13.4312H31.459V22.9846L21.099 15.7436C20.7443 15.4911 20.2661 15.4911 19.9114 15.7436L9.55139 22.9846V13.4312ZM5.18018 28.5286C4.82308 28.7834 4.66712 29.2323 4.79109 29.6497L7.93383 39.9905H19.4815V18.5207L5.18018 28.5286Z" fill=currentColor />
                             </svg>
                         </span>
-                        <a class="main_title h5 d-block" href=#>Expédition Fret</a>
-                        <p class=main_text>Vivamus tristique nibh vel purus ultricies viverra. Phasellus est dolor</p>
+                        <a class="main_title h5 d-block" href=#>Transport Maritime</a>
+                        <p class=main_text>Solutions complètes pour le fret maritime avec gestion des douanes et transit</p>
                     </div>
                 </li>
                 <li class="services_list-item"></li>
@@ -231,7 +143,7 @@
                     <div class=media>
                         <picture>
                             <source data-srcset=assets/img/index3/service04.webp srcset=assets/img/index3/service04.webp>
-                            <img class=lazy data-src=assets/img/index3/service04.jpg src=assets/img/index3/service04.jpg alt=media>
+                            <img class=lazy data-src=assets/img/index3/service04.jpg src=assets/img/index3/service04.jpg alt="Transport routier">
                         </picture>
                     </div>
                     <div class=main>
@@ -242,30 +154,10 @@
                                 <path fill-rule=evenodd clip-rule=evenodd d="M4.81944 0H37.1805C39.8456 0.00150767 42.0037 2.15786 41.9999 4.81476V32.6238C42.0033 33.3882 41.7009 34.1225 41.1596 34.6641C40.6183 35.2057 39.883 35.5095 39.116 35.5088H38.9032V36.5219C38.9032 37.5833 38.0031 38.4035 36.9386 38.4035H36V42.08C36 43.1414 35.0806 44 34.0161 44H30.2033C29.1354 44.0023 28.2663 43.1444 28.258 42.08V38.4035H13.7419V42.08C13.7336 43.1444 12.8645 44.0023 11.7966 44H7.98387C6.90953 44 6.00001 43.1414 6.00001 42.08V38.4035H5.06137C3.99686 38.4035 3.09679 37.5833 3.09679 36.5219V35.5088H2.88396C2.11771 35.508 1.38321 35.2035 0.842254 34.6622C0.301302 34.1209 -0.00187262 33.3878 1.74888e-05 32.6238V4.81476C-0.00376275 2.15786 2.15437 0.00150767 4.81944 0ZM7.93549 42.0702H11.8064V38.4035H7.93549V42.0702ZM34.0645 42.0702H30.1935V38.4035H34.0645V42.0702ZM5.03227 36.4737H36.9291V33.2028C36.9291 33.0098 36.7741 32.9035 36.5904 32.9035H5.03227V36.4737ZM34.8387 20.3596H21.8709V10.0351H32.9516C33.4585 10.0362 33.9435 10.2401 34.2985 10.6012C34.6531 10.9623 34.8477 11.45 34.8387 11.9551V20.3596ZM7.16129 20.3596H19.9355V10.0351H9.04839C8.54146 10.0362 8.05645 10.2401 7.70149 10.6012C7.3469 10.9623 7.15222 11.45 7.16129 11.9551V20.3596ZM7.1613 22.2895H34.8387V30.9737H7.1613V22.2895ZM39.7908 33.2993C39.9692 33.1199 40.0679 32.8764 40.0645 32.6238V4.81476C40.0664 4.05075 39.7632 3.31764 39.2222 2.77638C38.6813 2.23513 37.9468 1.93058 37.1805 1.92982H4.81944C4.05319 1.93058 3.31869 2.23513 2.77773 2.77638C2.23678 3.31764 1.93361 4.05075 1.9355 4.81476V32.6238C1.93058 32.8767 2.02849 33.121 2.2073 33.3011C2.3861 33.4809 2.62993 33.5812 2.88396 33.5789H3.09679V32.8651C3.09679 31.7938 3.99686 30.9737 5.06137 30.9737H5.22581V11.9551C5.21485 10.9374 5.61291 9.95782 6.33116 9.23451C7.04902 8.5112 8.02773 8.10451 9.04839 8.10526H32.9516C33.9719 8.10639 34.9494 8.51346 35.6669 9.23639C36.3848 9.95932 36.7832 10.9382 36.7741 11.9551V30.9447C37.9354 31.0604 38.9032 32.0253 38.9032 33.2028V33.5789H39.116C39.3697 33.5797 39.6127 33.4791 39.7908 33.2993Z" fill=currentColor />
                             </svg>
                         </span>
-                        <a class="main_title h5 d-block" href=#>Fret Routier</a>
-                        <p class=main_text>Vivamus tristique nibh vel purus ultricies viverra. Phasellus est dolor</p>
+                        <a class="main_title h5 d-block" href=#>Transport Routier</a>
+                        <p class=main_text>Réseau national et international avec suivi GPS et livraison sécurisée</p>
                     </div>
                 </li>
-                <!-- <li class=services_list-item>
-                            <div class=media>
-                                <picture>
-                                    <source data-srcset=img/index3/service03.webp srcset=img/index3/service03.webp>
-                                    <img class=lazy data-src=img/index3/service03.jpg src=img/index3/service03.jpg alt=media>
-                                </picture>
-                            </div>
-                            <div class=main>
-                                <span class="main_icon icon">
-                                    <svg width=42 height=44 viewBox="0 0 42 44" fill=none xmlns=http://www.w3.org/2000/svg>
-                                        <path fill-rule=evenodd clip-rule=evenodd d="M39.9206 6.53116C40.8961 6.86977 41.6398 7.67611 41.9035 8.6814C42.1051 9.47852 41.9882 10.3234 41.5771 11.0342C41.1673 11.7345 40.4951 12.2391 39.7115 12.4338L30.1918 14.8792L22.2778 25.7569C21.7311 26.5092 20.9413 27.0461 20.0443 27.2747L17.4173 27.9493C17.2863 27.9829 17.1513 27.9997 17.016 28C16.4854 28 15.9883 27.7385 15.6851 27.3001C15.3815 26.8613 15.3099 26.301 15.4933 25.799L18.346 17.9234L14.1381 19.0028C13.4323 19.181 12.7075 19.2716 11.9797 19.2725C11.4209 19.2742 10.8635 19.2205 10.3151 19.1121L4.94451 18.0581C3.4276 17.7593 2.21656 16.6075 1.83259 15.0985L0.0255042 7.95642C-0.0287411 7.7387 0.00426354 7.50845 0.117656 7.31543C0.228761 7.12208 0.412737 6.98209 0.627757 6.92741L2.46001 6.4554C3.01912 6.31343 3.61092 6.4801 4.0158 6.89382L6.86858 9.81153C7.44894 10.4008 8.29464 10.6383 9.09362 10.4354L15.9785 8.66461L9.96383 3.64737C9.48935 3.25737 9.27563 2.62989 9.41157 2.02843C9.54718 1.42598 10.006 0.950671 10.5994 0.797176L13.2097 0.12259C14.077 -0.0971116 14.9923 -0.0200348 15.8112 0.341962L27.7069 5.64577L30.6182 4.89542C32.2296 4.48237 33.9242 4.541 35.5039 5.06407L39.904 6.52292C39.9125 6.53116 39.9125 6.53116 39.9206 6.53116ZM13.6195 1.7501L11.1013 2.39932L17.9862 8.1501L25.0888 6.31212L15.1338 1.87658C14.6567 1.66709 14.1244 1.62262 13.6195 1.7501ZM20.9227 24.7368C20.6047 25.1739 20.1466 25.4868 19.626 25.6222L17.0827 26.2714L20.3034 17.4006L27.6318 15.5116L20.9227 24.7368ZM39.2932 10.7813C39.6471 10.6917 39.951 10.4641 40.1383 10.1488C40.3226 9.83327 40.3739 9.45678 40.2804 9.10302C40.1559 8.64781 39.8187 8.28284 39.3769 8.12507L34.985 6.66621C33.7086 6.24262 32.3387 6.19584 31.0365 6.53116L9.51189 12.0711C8.1355 12.4153 6.68068 12.0056 5.68074 10.9921L2.85312 8.0997L1.85743 8.35267L3.45537 14.6769C3.67562 15.5551 4.37983 16.2257 5.26246 16.397L10.6331 17.451C11.6562 17.648 12.7101 17.6164 13.7198 17.3585L39.2932 10.7813Z" fill=currentColor/>
-                                        <path d="M36.1688 42H4.83123C4.37211 42 4 42.4477 4 43C4 43.552 4.37211 44 4.83123 44H36.1688C36.6279 44 37 43.552 37 43C37 42.4477 36.6279 42 36.1688 42Z" fill=currentColor/>
-                                        <path d="M21.5466 37H4.4534C4.20297 37 4 37.4477 4 38C4 38.552 4.20297 39 4.4534 39H21.5466C21.797 39 22 38.552 22 38C22 37.4477 21.797 37 21.5466 37Z" fill=currentColor/>
-                                        <path d="M13.7481 32H4.25189C4.11276 32 4 32.4477 4 33C4 33.552 4.11276 34 4.25189 34H13.7481C13.8872 34 14 33.552 14 33C14 32.4477 13.8872 32 13.7481 32Z" fill=currentColor/>
-                                    </svg>
-                                </span>
-                                <a class="main_title h5 d-block" href=#>Fret Aérien</a>
-                                <p class=main_text>Vivamus tristique nibh vel purus ultricies viverra. Phasellus est dolor</p>
-                            </div>
-                        </li> -->
             </ul>
         </div>
     </div>
@@ -277,25 +169,25 @@
                     <div class="partners_slider-slide swiper-slide">
                         <picture>
                             <source data-srcset=assets/img/logos/01.webp srcset=assets/img/logos/01.webp>
-                            <img class=lazy data-src=assets/img/logos/01.png src=assets/img/logos/01.png alt="partenaire logo">
+                            <img class=lazy data-src=assets/img/logos/01.png src=assets/img/logos/01.png alt="Logo partenaire Maersk">
                         </picture>
                     </div>
                     <div class="partners_slider-slide swiper-slide">
                         <picture>
                             <source data-srcset=assets/img/logos/02.webp srcset=assets/img/logos/02.webp>
-                            <img class=lazy data-src=assets/img/logos/02.png src=assets/img/logos/02.png alt="partenaire logo">
+                            <img class=lazy data-src=assets/img/logos/02.png src=assets/img/logos/02.png alt="Logo partenaire DHL">
                         </picture>
                     </div>
                     <div class="partners_slider-slide swiper-slide">
                         <picture>
                             <source data-srcset=assets/img/logos/03.webp srcset=assets/img/logos/03.webp>
-                            <img class=lazy data-src=assets/img/logos/03.png src=assets/img/logos/03.png alt="partenaire logo">
+                            <img class=lazy data-src=assets/img/logos/03.png src=assets/img/logos/03.png alt="Logo partenaire FedEx">
                         </picture>
                     </div>
                     <div class="partners_slider-slide swiper-slide">
                         <picture>
                             <source data-srcset=assets/img/logos/04.webp srcset=assets/img/logos/04.webp>
-                            <img class=lazy data-src=assets/img/logos/04.png src=assets/img/logos/04.png alt="partenaire logo">
+                            <img class=lazy data-src=assets/img/logos/04.png src=assets/img/logos/04.png alt="Logo partenaire CMA CGM">
                         </picture>
                     </div>
                 </div>
@@ -306,35 +198,35 @@
     <section class="contacts section">
         <div class=container>
             <div class=wrapper>
-                <h2 class=contacts_header>Nous fournissons l'avenir de la livraison</h2>
+                <h2 class=contacts_header>Une solution logistique adaptée à vos besoins</h2>
                 <form class="contact_form form" action=# data-type=contacts>
                     <div class=contact_form-row>
                         <div class=column>
                             <label class=label for=feedbackName>Nom complet</label>
-                            <input class="field required" type=text id=feedbackName placeholder=Nom>
+                            <input class="field required" type=text id=feedbackName placeholder="Votre nom">
                         </div>
                         <div class=column>
                             <label class=label for=feedbackTel>Téléphone</label>
-                            <input class="field required" type=number data-type=tel id=feedbackTel placeholder=Téléphone>
+                            <input class="field required" type=number data-type=tel id=feedbackTel placeholder="Votre téléphone">
                         </div>
                     </div>
                     <div class=contact_form-row>
                         <div class=column>
                             <label class=label for=feedbackEmail>Email</label>
-                            <input class="field required" type=text data-type=email id=feedbackEmail placeholder=Email>
+                            <input class="field required" type=text data-type=email id=feedbackEmail placeholder="Votre email">
                         </div>
                         <div class=column>
                             <label class=label for=feedbackSubject>Sujet</label>
-                            <input class="field required" type=text id=feedbackSubject placeholder=Sujet>
+                            <input class="field required" type=text id=feedbackSubject placeholder="Objet de votre demande">
                         </div>
                     </div>
                     <div class=contact_form-row>
                         <div class=column>
                             <label class=label for=feedbackMessage>Message</label>
-                            <textarea class="field required" id=feedbackMessage placeholder=Message></textarea>
+                            <textarea class="field required" id=feedbackMessage placeholder="Détails de votre demande"></textarea>
                         </div>
                     </div>
-                    <button class="btn btn--regular" type=submit>Prendre rendez-vous</button>
+                    <button class="btn btn--regular" type=submit>Envoyer la demande</button>
                 </form>
                 <ul class=contact_data>
                     <li class=contact_data-item>
@@ -349,8 +241,8 @@
                         <div class=main>
                             <span class=main_title>Téléphones</span>
                             <div class=main_info>
-                                <a class="link h6" href=tel:+1234567890>+243 989 201 111</a>
-                                <a class="link h6" href=tel:+1234567890>+243 969 601 112</a>
+                                <a class="link h6" href=tel:+243989201111>+243 989 201 111</a>
+                                <a class="link h6" href=tel:+243969601112>+243 969 601 112</a>
                             </div>
                         </div>
                     </li>
@@ -364,10 +256,10 @@
                             </svg>
                         </span>
                         <div class=main>
-                            <span class=main_title>Address</span>
+                            <span class=main_title>Adresse</span>
                             <div class=main_info>
                                 <span class=h6>4621 Matadi</span>
-                                <span class=h6>Rue</span>
+                                <span class=h6>Rue du Port, République Démocratique du Congo</span>
                             </div>
                         </div>
                     </li>
@@ -384,8 +276,8 @@
                         <div class=main>
                             <span class=main_title>Emails</span>
                             <div class=main_info>
-                                <a class="link h6" href=mailto:example@domain.com>Soccope@site.com</a>
-                                <a class="link h6" href=mailto:example@domain.com>Soccope@gensite.com</a>
+                                <a class="link h6" href=mailto:contact@soccope.com>contact@soccope.com</a>
+                                <a class="link h6" href=mailto:logistique@soccope.com>logistique@soccope.com</a>
                             </div>
                         </div>
                     </li>
@@ -393,5 +285,4 @@
             </div>
         </div>
     </section>
-
 </div>
